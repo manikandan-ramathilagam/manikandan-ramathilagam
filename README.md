@@ -1,15 +1,17 @@
-# Hi 👋 My name is [Your Name]
+# Hi there! I'm Manikandan Ramesh 📡
 
-### MSc Student — Communications & Multimedia Engineering | Radar Signal Processing | Machine Learning
----
+**M.Sc. Communications & Multimedia Engineering | Signal Processing | Machine Learning**
 
-M.Sc. Communications & Multimedia Engineering student based in Erlangen. Focused on the intersection of advanced signal processing and applied machine learning. Currently building models to interpret complex radar data for gesture and human activity recognition.
+I am an engineering student based in Erlangen, DE, passionate about bridging the gap between raw hardware sensor data and intelligent algorithms. 
 
-Currently working on: 📡 Radar Signal Processing ML for gesture/activity recognition 
+### 🔬 Current Focus
+I am currently working on a standalone project focusing on **Radar Signal Processing and Machine Learning** to accurately detect and recognize human gestures and activities.
 
-Based in Erlangen, Bavaria DE
+*   🔭 **Deep diving into:** Micro-Doppler signatures, deep learning architectures, and sensor fusion.
+*   💬 **Ask me about:** DSP, applying ML to radar data, or life as a CME student!
+*   📫 **Reach me at:** mailto:manikandanramathilagam@gamil.com
 
-* 🌍 I'm based in Erlangen, Bayern, Deutschland
-* ✉️ You can contact me at manikandan.ramesh@fau.de
-* 🧠 I'm exploring new ways to bridge hardware sensors with intelligent algorithms. Stay Hungry, Stay Foolish.
-* 💻 Learning: [Specific tools e.g., PyTorch, TensorFlow, MATLAB, C++]
+### 📊 GitHub Stats
+
+<!-- This generates a dynamic card showing your coding activity. Just replace "YOUR_GITHUB_USERNAME" with your actual username! -->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
