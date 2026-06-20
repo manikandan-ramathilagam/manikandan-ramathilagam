@@ -3,6 +3,7 @@
 **M.Sc. Communications & Multimedia Engineering | Signal Processing | Machine Learning**
 
 I am an engineering student based in Erlangen, DE, passionate about bridging the gap between raw hardware sensor data and intelligent algorithms. 
+Always looking for open-source projects where I can apply signal processing to real-world hardware.
 
 ### 🔬 Current Focus
 I am currently working on a standalone project focusing on **Radar Signal Processing and Machine Learning** to accurately detect and recognize human gestures and activities.
