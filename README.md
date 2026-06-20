@@ -9,9 +9,7 @@ I am currently working on a standalone project focusing on **Radar Signal Proces
 
 *   🔭 **Deep diving into:** Micro-Doppler signatures, deep learning architectures, and sensor fusion.
 *   💬 **Ask me about:** DSP, applying ML to radar data, or life as a CME student!
-*   📫 **Reach me at:** mailto:manikandanramathilagam@gamil.com
+*   📫 **Reach me at:** mail to: manikandanramathilagam@gamil.com
+*   📖 **Learning:** LLM
 
-### 📊 GitHub Stats
 
-<!-- This generates a dynamic card showing your coding activity. Just replace "YOUR_GITHUB_USERNAME" with your actual username! -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
